@@ -1,8 +1,8 @@
 {
-  "realm": "react-keycloak",
-  "auth-server-url": "http://localhost:8080/auth",
+  "realm": "pearl",
+  "auth-server-url": "http://localhost:8083/auth",
   "ssl-required": "external",
-  "resource": "my-react-client",
+  "resource": "pearl-client",
   "public-client": true,
   "confidential-port": 0
 }
